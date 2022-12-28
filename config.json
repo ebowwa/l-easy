@@ -1,0 +1,22 @@
+{
+  "login": {
+    "username": "your_linkedin_username",
+    "password": "your_linkedin_password"
+  },
+  "search": {
+    "keywords": "desired_job_keywords",
+    "location": "desired_job_location",
+    "job_title": "desired_job_title",
+    "industry": "desired_industry",
+    "experience_level": "desired_experience_level",
+    "employment_type": "desired_employment_type"
+  },
+  "application": {
+    "cover_letter": "path_to_cover_letter_file",
+    "resume": "path_to_resume_file"
+  },
+  "contact": {
+    "email": "your_email_address",
+    "phone": "your_phone_number"
+  }
+}
